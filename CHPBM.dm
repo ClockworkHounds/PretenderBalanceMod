@@ -1,6 +1,7 @@
 #modname "Clockwork Hounds Pretender Balance Mod"
 #description "Adjust's pretender costs and abilities in order to hopefully better balance the different choices. For patch 4.07."
-#version 0.02
+#icon "CHPBM.tga"
+#version 0.03
 
 -- Dom1 --
 
