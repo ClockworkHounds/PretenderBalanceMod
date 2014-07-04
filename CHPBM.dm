@@ -41,7 +41,6 @@
 #gcost 25
 #end
 
-
 --Shedu
 #selectmonster 661
 #gcost 75
@@ -157,5 +156,51 @@
 #fireres -10
 #end
 
-
 -- Dom4 --
+
+--Baphomet
+#selectmonster 607
+#gcost 30
+#end
+
+--Colossal Fetish
+#selectmonster 1346
+#gcost 60
+#fireres -15
+#end
+
+--Fountain of Blood
+#selectmonster 656
+#gcost 20
+#end
+
+--Golden Idol
+#selectmonster 2462
+#gcost 20
+#end
+
+--Irminsul
+#selectmonster 2234
+#gcost 20
+#end
+
+--Monolith
+#selectmonster 657
+#gcost 50
+#end
+
+--Monument
+#selectmonster 159
+#gcost 50
+coldres -10
+#end
+
+--Statue of War(Greek)
+#selectmonster 2463
+#gcost 30
+#end
+
+--Statue of War(Eastern)
+#selectmonster 2465
+#gcost 30
+#end
