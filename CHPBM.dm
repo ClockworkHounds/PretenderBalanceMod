@@ -209,3 +209,21 @@
 #selectmonster 2465
 #gcost 30
 #end
+
+
+
+-- Let's have some fun now, shall we 
+
+#newmerc
+#name "The Chosen Men"
+#bossname "Sharpe"
+#com 54
+#unit 2454
+#nrunits 20
+#level 1
+#minmen 5
+#minpay 200
+#xp 50
+#randequip 1
+#eramask 7
+#end
