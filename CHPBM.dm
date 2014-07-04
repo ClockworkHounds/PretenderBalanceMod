@@ -214,16 +214,43 @@
 
 -- Let's have some fun now, shall we 
 
+#newmonster
+#name "Sharpshooter"
+#decr "A member of the Chosen Men commanded by Major Sharpe. Through training and battlefield experience the Sharpshooters have acquired a mastery of their weapons of choice unheard of in the human kingdoms."
+#copyspr 2454
+#gcost 12
+#hp 10
+#size 2
+#prot 0
+#mr 10
+#mor 11
+#str 11
+#att 11
+#def 10
+#prec 11
+#enc 3
+#mapmove 2
+#ap 12
+#eyes 2
+#maxage 50
+#formationfighter 1
+#weapon 6
+#weapon 25
+#armor 6
+#armor 20
+#end
+
 #newmerc
 #name "The Chosen Men"
 #bossname "Sharpe"
-#com 54
-#unit 2454
+#com "Castellan"
+#unit "Sharpshooter"
 #nrunits 20
 #level 1
 #minmen 5
-#minpay 200
-#xp 50
+#recrate 100
+#minpay 250
+#xp 40
 #randequip 1
 #eramask 7
 #end
