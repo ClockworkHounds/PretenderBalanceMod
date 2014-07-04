@@ -9,6 +9,11 @@
 
 -- Dom2 --
 
+--Ancient Kraken
+#selectmonster 973
+#pathcost 30
+#end
+
 --Devourer of Souls
 #selectmonster 1349
 #weapon 29
@@ -22,7 +27,7 @@
 
 --Gannag Mennog
 #selectmonster 2611
-#gcost 75
+#gcost 80
 #end
 
 --Kamadhenu
