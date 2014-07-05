@@ -1,7 +1,7 @@
 #modname "Clockwork Hounds Pretender Balance Mod"
 #description "Adjust's pretender costs and abilities in order to hopefully better balance the different choices. For patch 4.07."
 #icon "CHPBM.tga"
-#version 0.04
+#version 0.10
 
 -- Dom1 --
 
@@ -36,6 +36,27 @@
 #goldcost 25
 #end
 
+--Great Enchantress
+#selectmonster 485
+#gcost 30
+#end
+
+--Great Sage
+#selectmonster 251
+#researchbonus 12
+#inspiringres 2
+#end
+
+--Great Sauromancer
+#selectmonster 2205
+#gcost 25
+#end
+
+--Master Enchanter
+#selectmonster 245
+#gcost 0
+#end
+
 --Vampire Queen
 #selectmonster 862
 #startdom 2
@@ -52,7 +73,7 @@
 #end
 
 --Ahura of the Water
-#selectmonster
+#selectmonster 2554
 #gcost 125
 #awe 3
 #batstartsum1d6 412
@@ -161,6 +182,7 @@
 #gcost 25
 #magicboost 53 -1
 #end
+
 -- Dom3 --
 
 --Ahura of Wisdom
@@ -175,14 +197,40 @@
 #coldres 10
 #end
 
+--Asynja (unarmoured)
+#selectmonster 2239
+#att 14
+#def 16
+#end
+
 --Celestial General
 #selectmonster 1345
 #invulnerable 10
 #end
 
+--Celestial Carp
+#selectmonster 2556
+#gcost 40
+#end
+
 --Dagon
 #selectmonster 109
 #ap 14
+#end
+
+--Destroyer of Worlds
+#selectmonster 1096
+#gcost 60
+#end
+
+--Devi of Darkness
+#selectmonster 1341
+#gcost 75
+#end
+
+--Devi of Good Fortunes
+#selectmonster 1344
+#gcost 60
 #end
 
 --Earth Made Flesh
@@ -193,6 +241,11 @@
 --Great Mother
 #selectmonster 606
 #batstartsum1d6 817
+#end
+
+--Jade Emperor
+#selectmonster 905
+#pathcost 40
 #end
 
 --Nataraja
@@ -224,6 +277,11 @@
 --Solar Disc
 #selectmonster 1384
 #deathfire 6
+#end
+
+--Son of Niefel
+#selectmonster 605
+#gcost 60
 #end
 
 --Son of the Fallen
