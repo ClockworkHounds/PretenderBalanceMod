@@ -5,24 +5,108 @@
 
 -- Dom1 --
 
+--Arch Druid
+#selectmonster 270
+#gcost 0
+#end
 
+--Arch Mage
+#selectmonster 244
+#gcost 0
+#end
+
+--Arch Mage - lobster
+#selectmonster 248
+#amphibian
+#gcost 25
+#end
+
+--Crone
+#selectmonster 249
+#magicskill 6 1
+#end
+
+--Freak Lord
+#selectmonster 246
+#magicskill 6 1
+#end
+
+--Frost Father
+#selectmonster 250
+#goldcost 25
+#end
+
+--Vampire Queen
+#selectmonster 862
+#startdom 2
+#end
 
 -- Dom2 --
 
+--Ahura of the Oath
+#selectmonster 2553
+#gcost 125
+#awe 3
+#shockres 10
+#fireres 15
+#end
+
+--Ahura of the Water
+#selectmonster
+#gcost 125
+#awe 3
+#batstartsum1d6 412
+#end
+
 --Ancient Kraken
 #selectmonster 973
-#pathcost 30
+#magicskill 2 1
+#end
+
+--Azi
+#selectmonster 2608
+#gcost 60
+#end
+
+--Bog Mummy
+#selectmonster 643
+#gcost 90
 #end
 
 --Devourer of Souls
 #selectmonster 1349
 #weapon 29
+#gcost 30
 #end
-
 
 --Divine Emperor
 #selectmonster 874
 #gcost 0
+#end
+
+--Divine Serpent
+#selectmonster 779
+#gcost 10
+#end
+
+--Dracolich
+#selectmonster 644
+#gcost 60
+#end
+
+--Dragon - Fire
+#selectmonster 216
+#gcost 60
+#end
+
+--Dragon - Water
+#selectmonster 265
+#gcost 60
+#end
+
+--Dragon - Nature
+#selectmonster 266
+#gcost 60
 #end
 
 --Gannag Mennog
@@ -51,6 +135,12 @@
 #gcost 75
 #end
 
+--Spenta Mainyuu
+#selectmonster 2555
+#gcost 125
+#awe 3
+#end
+
 --Sphinx
 #selectmonster 2138
 #weapon 29
@@ -66,11 +156,17 @@
 #gcost 125
 #end
 
+--Wyrm
+#selectmonster 269
+#gcost 25
+#magicboost 53 -1
+#end
 -- Dom3 --
 
 --Ahura of Wisdom
 #selectmonster 2552
-#gcost 75
+#gcost 100
+#awe 4
 #end
 
 --Allfather
