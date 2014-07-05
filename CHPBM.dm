@@ -1,7 +1,7 @@
 #modname "Clockwork Hounds Pretender Balance Mod"
 #description "Adjust's pretender costs and abilities in order to hopefully better balance the different choices. For patch 4.07."
 #icon "CHPBM.tga"
-#version 0.10
+#version 0.11
 
 -- Dom1 --
 
@@ -94,6 +94,21 @@
 #gcost 90
 #end
 
+--Carrion Dragon
+#selectmonster 1026
+#gcost 25
+#end
+
+--Celestial Dragon
+#selectmonster 2318
+#gcost 30
+#end
+
+--Daeva of Wrath
+#selectmonster 2627
+#gcost 25
+#end
+
 --Devourer of Souls
 #selectmonster 1349
 #weapon 29
@@ -130,6 +145,11 @@
 #gcost 60
 #end
 
+--Dragon King
+#selectmonster 2316
+#gcost 35
+#end
+
 --Gannag Mennog
 #selectmonster 2611
 #gcost 80
@@ -138,6 +158,11 @@
 --Kamadhenu
 #selectmonster 2466
 #gcost 100
+#end
+
+--Prince of Death
+#selectmonster 383
+#gcost 75
 #end
 
 --Risen Oracle
@@ -240,7 +265,7 @@
 
 --Great Mother
 #selectmonster 606
-#batstartsum1d6 817
+#gcost 60
 #end
 
 --Jade Emperor

@@ -1,0 +1,313 @@
+Changelist for the Clockwork Hounds Pretender Balance Mod:
+version 0.11
+__________________________________________________________
+Pretenders with starting dominion 1 (disciple candidates):
+__________________________________________________________
+--Arch Druid
+
+cost 25 -> 0
+
+--Arch Mage
+
+cost 25 -> 0
+
+--Arch Mage (with a Lobster)
+
+cost 0 -> 25
+added amphibious
+
+--Crone
+
+added 1 nature path
+
+--Freak Lord
+
+added 1 nature path
+
+--Frost Father
+
+cost 50 -> 25
+
+--Great Enchantress
+
+cost 50 -> 30
+
+--Great Sage
+
+adept researcher 15->12
+inspiring researcher 1->2
+
+--Great Sauromancer
+
+cost 50 -> 25
+
+--Master Enchanter
+
+cost 25 -> 0
+
+--Vampire Queen
+
+starting dominion 1 -> 2
+(still pickable as a disciple)
+
+_____________________________________________________________
+Pretenders with starting dominion of 2 (disciple candidates):
+_____________________________________________________________
+
+--Ahura of the Oath
+
+cost 0 -> 125
+awe 5 -> 3
+shock resistance 15 -> 10
+
+--Ahura of the Water
+
+cost 0 -> 125
+awe 5 -> 3
+2d6 water elemental autosummon -> 1d6
+
+--Ancient Kraken
+
+added 1 water
+
+--Azi
+
+cost 50 -> 60
+
+--Bog Mummy
+
+cost 100 -> 90
+
+--Carrion Dragon
+
+cost 0 -> 25
+
+--Celestial Dragon
+
+cost 25 -> 30
+
+--Daeva of Wrath
+
+cost 0 -> 25
+
+--Devourer of Souls
+
+added a claw attack
+cost 25 -> 30
+
+--Divine Emperor
+
+cost 35 -> 0
+
+--Divine Serpent
+
+cost 0 -> 10
+
+--Dracolich
+
+cost 25 -> 60
+
+--Dragons {fire, water, nature}
+
+cost 50 -> 60
+
+--Dragon King
+
+cost 50 -> 35
+
+--Gannag Mennog
+
+cost 50 -> 80
+
+-- Kamadhenu 
+
+cost 125 -> 100
+
+--Prince of Death
+
+cost 50 -> 75
+
+--Risen Oracle 
+
+cost 100 -> 75
+
+--Scorpion King
+
+summons 2d6 Scorpions automatically
+cost 50 -> 25
+
+--Shedu
+
+cost 100 -> 75
+
+--Spenta Mainyuu
+
+cost 0 -> 125
+awe 5 -> 3
+
+--Sphinx
+
+added a claw attack
+
+--Urmahlullu
+
+added a claw attack
+
+--Virtue 
+
+cost 150 -> 125
+
+--Wyrm
+
+cost 50 -> 25
+path boost -1 to all paths
+
+______________________________________________________________
+Pretenders with starting dominion of 3 (pretender candidates):
+______________________________________________________________
+
+--Ahura of Wisdom 
+
+cost 50 -> 100
+awe 5 -> 4
+
+--Allfather
+
+added cold resistance of 10
+added fortune teller 10
+
+--Asynja (unarmoured)
+
+buffed base stats to bring it closer to the armoured version:
+attack 10 -> 14
+defence 13 -> 16
+
+--Celestial Carp
+
+cost 50 -> 40
+
+--Celestial General
+
+added invulnerability 10
+
+--Dagon
+
+AP (action points) 10 -> 14
+
+--Destroyer of Worlds
+
+cost 50 -> 60
+
+--Devi of Darkness
+
+cost 50 -> 75
+
+--Devi of Good Fortunes
+
+cost 50 -> 60
+
+--Earth Made Flesh
+
+cost 100 -> 75
+
+--Great Mother
+
+cost 75 -> 60
+
+--Jade Emperor
+
+cost of a new path 50 -> 40
+
+--Nataraja
+
+cost 100 -> 75
+
+--Nerid
+
+cost 50 -> 25
+
+--Neter of Kings
+
+given a Crown of Authority
+
+--Neteret of Many Names
+
+Adept researcher 10 -> 6
+Inspiring researcher 2 -> 1
+
+--Oni Kunshu
+
+cost 100 -> 50
+
+--Solar Disc
+
+now explodes as a death effect
+
+--Son of Niefel
+
+cost 50 -> 60
+
+--Son of the Fallen
+
+cost of a new path 50 -> 60
+
+--Titan of Death and Rebirth
+
+added undead leadership regardless of paths
+
+--Titan of Heaven
+
+added Stormpower 1
+
+--Titan of Rivers
+
+added vulnerability to shock (shock resist -10)
+
+--Void Lord
+
+cost 125 -> 100
+defence 12 -> 13
+
+--Volla of the Bountiful Forest
+
+added vulnerability to fire (fire resist -10)
+
+______________________________________________________________
+Pretenders with starting dominion of 4 (pretender candidates):
+______________________________________________________________
+
+--Baphomet
+
+cost 20 -> 30
+
+--Colossal Fetish
+
+cost 50 -> 60
+added fire vulnerability (fire resist -15)
+
+--Fountain of Blood
+
+cost 0 -> 20
+
+--Golden Idol 
+
+cost 40 -> 20
+
+--Irminsul
+
+cost 0 -> 20
+
+--Monolith
+
+cost 40 -> 50
+
+--Monument
+
+cost 40 -> 50
+added cold vulnerability (cold resist -10)
+
+--Statues of War {greek, asian}
+
+cost 20 -> 30
+
+
