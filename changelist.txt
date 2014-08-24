@@ -1,5 +1,5 @@
 Changelist for the Clockwork Hounds Pretender Balance Mod:
-version 0.11
+version 0.12
 __________________________________________________________
 Pretenders with starting dominion 1 (disciple candidates):
 __________________________________________________________
@@ -88,7 +88,7 @@ cost 25 -> 30
 
 --Daeva of Wrath
 
-cost 0 -> 25
+cost 0 -> 50
 
 --Devourer of Souls
 
