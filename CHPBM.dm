@@ -1,7 +1,7 @@
 #modname "Clockwork Hounds Pretender Balance Mod"
 #description "Adjust's pretender costs and abilities in order to hopefully better balance the different choices. For patch 4.07."
-#icon "CHPBM.tga"
-#version 0.11
+#icon "/CH_PBM/CHPBM.tga"
+#version 0.12
 
 -- Dom1 --
 
@@ -76,7 +76,6 @@
 #selectmonster 2554
 #gcost 125
 #awe 3
-#batstartsum1d6 412
 #end
 
 --Ancient Kraken
@@ -106,7 +105,7 @@
 
 --Daeva of Wrath
 #selectmonster 2627
-#gcost 25
+#gcost 50
 #end
 
 --Devourer of Souls
